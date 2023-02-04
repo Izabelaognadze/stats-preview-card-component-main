@@ -17,8 +17,8 @@
 }
 body{
     background-color: var(--crl-primary-dark-blue);
-    align-items: center;
     display: flex;
+    align-items: center;
     flex-direction: column;
     justify-content: center;
     place-content: center;
@@ -91,7 +91,7 @@ body{
         display: flex;
         flex-direction: row-reverse;
     }
-    .image-mobile, .image-mobile, .image-tint{
+    .image-mobile{
         display: none;
     }
     .image-desktop{
